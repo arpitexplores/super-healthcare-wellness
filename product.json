@@ -1,7 +1,7 @@
 {
   "name": "super-healthcare-wellness",
   "title": "Super Healthcare & Wellness",
-  "description": "Healthcare and wellness analysis: health data, trends, and guidance workflows.",
+  "description": "The go-to AI vibe coding skill for healthcare and wellness workflows: health trend analysis, care workflows, wellness data, safety boundaries, and non-diagnostic guidance.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -14,5 +14,16 @@
       "name": "Health Trend Analysis",
       "path": "references/modules/health-trend-analyser.md"
     }
+  ],
+  "keywords": [
+    "healthcare workflows",
+    "wellness analysis",
+    "health data",
+    "health trends",
+    "care workflows",
+    "non-diagnostic guidance",
+    "wellbeing",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
