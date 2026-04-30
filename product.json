@@ -2,7 +2,7 @@
   "name": "super-healthcare-wellness",
   "title": "Super Healthcare & Wellness",
   "description": "The go-to AI vibe coding skill for healthcare and wellness workflows: health trend analysis, care workflows, wellness data, safety boundaries, and non-diagnostic guidance.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
